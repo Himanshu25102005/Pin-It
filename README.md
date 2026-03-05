@@ -1,6 +1,6 @@
-# 📌 Pinterest Clone
+# 📌 Pin-It
 
-Welcome to **Pinterest Clone** — a full-stack image-sharing web app inspired by Pinterest! Built using **Node.js**, **Express**, **MongoDB**, **Mongoose**, and **EJS**, this project demonstrates essential features like user authentication, profile management, file uploads, and post feeds.
+Welcome to **Pint-It** — a full-stack image-sharing web app inspired by Pinterest! Built using **Node.js**, **Express**, **MongoDB**, **Mongoose**, and **EJS**, this project demonstrates essential features like user authentication, profile management, file uploads, and post feeds.
 
 ---
 
